@@ -1,2 +1,1 @@
-This is a Sample Test.
-This is a another Test.
+This is a Sample App for CRUD Operations in Node JS
